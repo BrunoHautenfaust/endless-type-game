@@ -11,6 +11,7 @@ Run *npm start* to start a server on port 8000
 
 ## How to play:
 You are the purple cube. Evade the dark red cubes and the small red cubes they shoot.
+
 Use the UP and DOWN arrow keys on the keyboard.
 
 
